@@ -1,0 +1,12 @@
+<Persons>
+	<Person name="Vladimir" height="17" weight = "1" passportID = "1245" color="RED">
+		<coordinates x="1" y="123"/>
+		<location x="1" y="2" z="3"/>
+	</Person>
+	<Person name="Anton" height="17" weight = "1" passportID = "1245" color="RED">
+		<coordinates x="1" y="1"/>
+	</Person>
+	<Person name="Oleg" height="17" weight = "1" passportID = "1245" color="BROWN">
+		<coordinates x="1" y="1"/>
+	</Person>
+</Persons>

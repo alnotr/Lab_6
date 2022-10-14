@@ -1,0 +1,14 @@
+<Persons>
+	<Person dateTime = "2022-09-12 22:22" name="Vladimir" height="17" weight = "1" passportID = "1245" color="RED">
+		<coordinates x="1" y="123"/>
+		<location x="1" y="2" z="3"/>
+	</Person>
+	<Person dateTime = "2022-09-12 22:22" name="Anton" height="17" weight = "1" passportID = "1245" color="RED">
+		<coordinates x="1" y="1"/>
+		<location x="1" y="2" z="3"/>
+	</Person>
+	<Person dateTime = "2022-09-12 22:22" name="Oleg" height="17" weight = "1" passportID = "1245" color="BROWN">
+		<coordinates x="1" y="1"/>
+		<location x="1" y="2" z="3"/>
+	</Person>
+</Persons>
